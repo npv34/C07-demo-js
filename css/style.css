@@ -1,0 +1,21 @@
+table {
+    width: 600px;
+    border-collapse: collapse;
+    border-color: rgb(124, 76, 178);
+
+}
+
+tr {
+    height: 30px;
+}
+
+td {
+    height: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#table-header {
+    background-color: yellow;
+    text-align: center;
+}
